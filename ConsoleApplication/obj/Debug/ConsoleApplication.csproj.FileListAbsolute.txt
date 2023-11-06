@@ -1,0 +1,14 @@
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\College\SEMESTER7\ASD\WEEK1\Tasks\Task1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\College\SEMESTER7\ASE\Week 1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
